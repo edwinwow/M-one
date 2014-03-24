@@ -1,0 +1,1 @@
+class MissConnection(Displayable, Ownable):
